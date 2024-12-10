@@ -1,0 +1,6 @@
+@SyriaProjects.Server_HostAddress = http://localhost:5013
+
+GET {{SyriaProjects.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
